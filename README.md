@@ -7,4 +7,4 @@ This repo is the source code to the overview of genetic algorithms article here:
 
 You can create a gif similar to the Charmander one below that visualizes the genetic algorithm improving for any picture. 
 
-<img src="/images/Charmander.gif?raw=true" width="350" alt="https://andrewgibbsbravo.com/wp-content/uploads/2021/08/Charmander.gif" />
+<img src="/images/Charmander.gif?raw=true" width="500" alt="https://andrewgibbsbravo.com/wp-content/uploads/2021/08/Charmander.gif" />
